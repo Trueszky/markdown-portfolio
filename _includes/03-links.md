@@ -1,1 +1,2 @@
-Replace this with a link to your a GitHub or social media profile.
+[GitHub](http://github.com)
+[Valami](https://www.portfolio.hu/uzlet/20210419/dunaferr-hamis-iratokkal-akarjak-elfoglalni-a-gyarat-kuszobon-a-bergyartas-479196)
